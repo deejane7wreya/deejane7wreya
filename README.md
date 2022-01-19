@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning php
 - 💞️ I’m looking to collaborate on Wordpress Design
 - 📫 How to reach me at https://highclouds.co 
+I am an intern a 
 <a href="https://highclouds.co">High Clouds</a>
 
 <!---
